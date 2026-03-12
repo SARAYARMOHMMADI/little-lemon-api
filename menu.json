@@ -13,7 +13,7 @@
       "title": "Lemon Desert",
       "description": "Traditional homemade Italian Lemon Ricotta Cake.",
       "price": "10",
-      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b",
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500",
       "category": "desserts" 
     },
     {
@@ -21,7 +21,7 @@
       "title": "Grilled Fish",
       "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.",
       "price": "10",
-      "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500",
       "category": "mains"
     },
     {
