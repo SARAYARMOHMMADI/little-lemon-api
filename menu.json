@@ -40,5 +40,127 @@
       "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/bruschetta.jpg?raw=true",
       "category": "starters"
     }
+     {
+      "id": 6,
+      "title": "Caesar Salad",
+      "description": "Classic Caesar salad with romaine lettuce, parmesan cheese, and croutons.",
+      "price": "12",
+      "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?w=500&auto=format&fit=crop",
+      "category": "starters"
+    },
+    {
+      "id": 7,
+      "title": "Chicken Soup",
+      "description": "Warm and comforting chicken soup with vegetables and herbs.",
+      "price": "9",
+      "image": "https://images.unsplash.com/photo-1604908176997-431f6b3d78c1?w=500&auto=format&fit=crop",
+      "category": "starters"
+    },
+    {
+      "id": 8,
+      "title": "Garlic Bread",
+      "description": "Toasted bread with garlic butter and parsley.",
+      "price": "7",
+      "image": "https://images.unsplash.com/photo-1604908177225-3f7a0cdbaff0?w=500&auto=format&fit=crop",
+      "category": "starters"
+    },
+    {
+      "id": 9,
+      "title": "Margherita Pizza",
+      "description": "Classic pizza with tomato sauce, mozzarella, and fresh basil.",
+      "price": "14",
+      "image": "https://images.unsplash.com/photo-1548365328-9f547fb0953c?w=500&auto=format&fit=crop",
+      "category": "mains"
+    },
+    {
+      "id": 10,
+      "title": "Beef Burger",
+      "description": "Juicy grilled beef burger with lettuce, tomato, and cheese.",
+      "price": "15",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=500&auto=format&fit=crop",
+      "category": "mains"
+    },
+    {
+      "id": 11,
+      "title": "Chicken Alfredo",
+      "description": "Creamy Alfredo pasta with grilled chicken and parmesan.",
+      "price": "16",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=500&auto=format&fit=crop",
+      "category": "mains"
+    },
+    {
+      "id": 12,
+      "title": "Steak",
+      "description": "Grilled steak cooked to perfection with a side of vegetables.",
+      "price": "22",
+      "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=500&auto=format&fit=crop",
+      "category": "mains"
+    },
+    {
+      "id": 13,
+      "title": "Fried Rice",
+      "description": "Rice stir-fried with vegetables, egg, and soy sauce.",
+      "price": "11",
+      "image": "https://images.unsplash.com/photo-1604908177132-0b2e2d7c92a1?w=500&auto=format&fit=crop",
+      "category": "mains"
+    },
+    {
+      "id": 14,
+      "title": "Tiramisu",
+      "description": "Italian dessert made with coffee-soaked ladyfingers and mascarpone.",
+      "price": "10",
+      "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=500&auto=format&fit=crop",
+      "category": "desserts"
+    },
+    {
+      "id": 15,
+      "title": "Chocolate Cake",
+      "description": "Rich and moist chocolate cake topped with chocolate ganache.",
+      "price": "9",
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500&auto=format&fit=crop",
+      "category": "desserts"
+    },
+    {
+      "id": 16,
+      "title": "Ice Cream",
+      "description": "Vanilla ice cream served with chocolate syrup.",
+      "price": "6",
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500&auto=format&fit=crop",
+      "category": "desserts"
+    },
+    {
+      "id": 17,
+      "title": "Pancakes",
+      "description": "Fluffy pancakes served with maple syrup and butter.",
+      "price": "8",
+      "image": "https://images.unsplash.com/photo-1587731556938-38755b4803a6?w=500&auto=format&fit=crop",
+      "category": "desserts"
+    },
+    {
+      "id": 18,
+      "title": "Shrimp Salad",
+      "description": "Fresh salad topped with grilled shrimp and lemon dressing.",
+      "price": "13",
+      "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?w=500&auto=format&fit=crop",
+      "category": "starters"
+    },
+    {
+      "id": 19,
+      "title": "Spaghetti Bolognese",
+      "description": "Spaghetti with rich beef bolognese sauce.",
+      "price": "15",
+      "image": "https://images.unsplash.com/photo-1589307004395-8c75b1c9e7d4?w=500&auto=format&fit=crop",
+      "category": "mains"
+    },
+    {
+      "id": 20,
+      "title": "Fruit Salad",
+      "description": "Mixed fresh fruits served chilled.",
+      "price": "7",
+      "image": "https://images.unsplash.com/photo-1572449043416-55f4685c8b3d?w=500&auto=format&fit=crop",
+      "category": "desserts"
+    }
+  ]
+}
   ]
 }
