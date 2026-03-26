@@ -100,7 +100,7 @@
       "id": 13,
       "title": "Fried Rice",
       "description": "Rice stir-fried with vegetables, egg, and soy sauce.",
-      "price": "11",2a
+      "price": "11",
       "image": "https://images.unsplash.com/photo-1604908177132-0b2e2d7c92a1?auto=format&fit=crop&w=500&q=80",
       "category": "mains"
     },
@@ -148,7 +148,7 @@
       "id": 19,
       "title": "Spaghetti Bolognese",
       "description": "Spaghetti with rich beef bolognese sauce.",
-      "price": "15",rm
+      "price": "15",
       "image": "https://images.unsplash.com/photo-1589307004395-8c75b1c9e7d4?auto=format&fit=crop&w=500&q=80",
       "category": "mains"
     },
